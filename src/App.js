@@ -3,7 +3,6 @@ import LoginPage from './app/loginPage/page';
 import ProjectSetting from './app/dashboard/Projects/ProjectSettings/layout';
 import Project from './app/dashboard/layout';
 import Task from './app/dashboard/Tasks/layout';
-import "react-quill/dist/quill.snow.css";
 import "chartjs-adapter-date-fns";
 import { BrowserRouter as Router, Routes, Route } from "react-router";
 import { useEffect } from 'react';
